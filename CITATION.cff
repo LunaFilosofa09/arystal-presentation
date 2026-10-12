@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you refer to this presentation of Arystal, please cite it as below."
+title: "Arystal: physics-based simulation of crystal growth (first case study: amethyst in geodes)"
+version: "1 (exploratory)"
+authors:
+  - given-names: "Luna"
+    family-names: "Filosofa"
+license: CC-BY-NC-ND-4.0
+abstract: "Scientific and technical presentation of a phase-field simulator of crystal growth from solution. First version, exploratory, without experimental validation. The simulation software is not distributed."
